@@ -1,0 +1,26 @@
+.contact-page {
+    background: url("../assets/contact-bg.avif") no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 30px;
+  }
+  
+  .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 30px;
+    border-radius: 10px;
+  }
+  
+  .contact-heading {
+    font-size: 2.5rem;
+    color: #9ac5f4;
+  }
+  
+  .section-title {
+    color: #9ac5f4;
+  }
+  
+  .contact-details p {
+    color: #9ac5f4;
+  }
+  
